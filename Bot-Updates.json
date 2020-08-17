@@ -1,7 +1,8 @@
 {
-    "changes":"•Added A Cloning Calculator - (7 day trial) \nCommand Will Become Premium \n•Added Dino Dossier \n•Added Craft Commands(subject to change)",
-    "upcoming":"•xbox unofficial queries \n•updates to the craft command",
-    "version":"1.7.2",
+    "changes":"•Updated Dino Dossier \n•Added Craft Commands \n•Added Premium Information \n•Added Dino lookup",
+    "upcoming":"•xbox unofficial queries •TekGen Reminders",
+    "version":"1.7.3",
+    "freeprem":"Active until 20/08/20",
     "premium":[],
     "blacklist":[]
 }
