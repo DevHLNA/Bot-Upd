@@ -1,7 +1,7 @@
 {
-    "changes":"•Fixed Some Missing Items From Craft \n•Added Kibble Crafting Costs -craft <kibblename>",
-    "upcoming":"•TekGen Reminders \n•Working On A Boss Calculator",
-    "version":"1.7.7",
+    "changes":"•Fixed Some Missing Items From Craft \n•Added Kibble Crafting Costs -craft <kibblename> \n•Added Boss Calc |Eg. -boss alpha monkey \n•Performance upgrades",
+    "upcoming":"•TekGen Reminders",
+    "version":"1.8.0",
     "freeprem":"20/08/20",
     "premium":[],
     "blacklist":[]
