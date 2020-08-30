@@ -1,7 +1,7 @@
 {
-    "changes":"•Added -hexshop command!\nFixed Some broken items in the -buy command and added emotes.",
+    "changes":"•Added -hexshop command!\n•Fixed Some broken items in the -buy command and added emotes.",
     "upcoming":"Use #feature-req to request some things you would like to see \n\n•HLN-A Website",
-    "version":"2.0.0",
+    "version":"2.0.1",
     "freeprem":"",
     "premium":[],
     "blacklist":[]
