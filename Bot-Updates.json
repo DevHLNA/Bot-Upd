@@ -1,7 +1,7 @@
 {
-    "changes":"•Added -hexshop command!\n•Fixed Some broken items in the -buy command and added emotes.",
+    "changes":"•Added Titans To -boss \n•Added more common aliases \n•More stability fixes (more to come)",
     "upcoming":"Use #feature-req to request some things you would like to see \n\n•HLN-A Website",
-    "version":"2.0.1",
+    "version":"2.1.0",
     "freeprem":"",
     "premium":[],
     "blacklist":[]
