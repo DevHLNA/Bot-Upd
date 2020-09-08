@@ -1,7 +1,7 @@
 {
-    "changes":"•Added Titans To -boss \n•Added more common aliases \n•More stability fixes (more to come)",
+    "changes":"•Added A Suggestion Feature That Goes Directly To Our Dev Team \n-help suggest",
     "upcoming":"Use #feature-req to request some things you would like to see \n\n•HLN-A Website",
-    "version":"2.1.0",
+    "version":"2.1.1",
     "freeprem":"",
     "premium":[],
     "blacklist":[]
