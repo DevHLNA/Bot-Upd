@@ -1,7 +1,7 @@
 {
-    "changes":"•Added A Suggestion Feature That Goes Directly To Our Dev Team \n-help suggest",
+    "changes":"•Cloning Command Is Now FREE for everyone \n•All new creatures added to -creature/-clone commands",
     "upcoming":"Use #feature-req to request some things you would like to see \n\n•HLN-A Website",
-    "version":"2.1.1",
+    "version":"2.2.0",
     "freeprem":"",
     "premium":[],
     "blacklist":[]
