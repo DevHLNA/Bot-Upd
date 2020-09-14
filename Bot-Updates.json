@@ -2,6 +2,7 @@
     "changes":"•Server search queries are now set to PVP by default \nuse -help <platform> for cluster options \n•Fixed Xbox SmallTribes Queries",
     "upcoming":"Use #feature-req to request some things you would like to see \n\n•HLN-A Website",
     "version":"2.2.5",
+    "date":"14/09/2020",
     "freeprem":"",
     "premium":[],
     "blacklist":[]
