@@ -1,8 +1,8 @@
 {
-    "changes":"⫸ A few Cosmetic Changes",
-    "upcoming":"⫸ Use #feature-req to request some things you would like to see",
-    "version":"2.2.6",
-    "date":"14/09/2020",
+    "changes":"⫸ Custom Prefixes Added | use ``-prefix <new_prefix>``",
+    "upcoming":"⫸ Version 3.0",
+    "version":"2.3.0",
+    "date":"26/10/2020",
     "freeprem":"",
     "premium":[],
     "blacklist":[],
