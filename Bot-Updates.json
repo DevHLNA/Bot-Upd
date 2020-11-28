@@ -3,6 +3,7 @@
     "upcoming":"⫸ Version 3.0",
     "version":"2.3.0",
     "date":"26/10/2020",
+    "free_prem_bool":false,
     "freeprem":"",
     "premium":[],
     "blacklist":[],
