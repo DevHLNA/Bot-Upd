@@ -1,7 +1,7 @@
 {
     "changes":"⫸ Cluster commands have been fixed\n⫸Server Population Graphs Have been Added (Premium)\n⫸ Fixed a lot of bugs. And we mean a lot\n⫸ Changed the Unofficial Lookup Algorithm. Bot is now more likely to find the correct server\n⫸ Due to Switching VPS, Current Notis And Gen Reminders are lost. Sorry",
     "upcoming":"⫸ HLN-A Website",
-    "version":"3.0.0",
+    "version":"3.1.0",
     "date":"20/12/2020",
     "free_prem_bool":true,
     "freeprem":"01/01/2021",
