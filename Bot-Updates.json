@@ -1,11 +1,8 @@
 {
-    "changes":"⫸ Cluster commands have been fixed\n⫸Server Population Graphs Have been Added (Premium)\n⫸ Fixed a lot of bugs. And we mean a lot\n⫸ Changed the Unofficial Lookup Algorithm. Bot is now more likely to find the correct server\n⫸ Due to Switching VPS, Current Notis And Gen Reminders are lost. Sorry",
-    "upcoming":"⫸ HLN-A Website",
-    "version":"3.1.0",
-    "date":"20/12/2020",
-    "free_prem_bool":true,
-    "freeprem":"01/01/2021",
-    "premium":[],
-    "blacklist":[],
-    "support_staff":"**◾ Jedibraden#0002 \n◾ bossss#3369 \n◾ Harveyyy MP#1691 \n◾ BAWzoo#0001 \n◾ don#9900**"
-}
+                "changes": "⫸ IPs and Ports are back!\n⫸Noti command now allows to mention everyone, and also set a repeat cooldown\n⫸ Added new commands related to creatures\n⫸ You can now get the top 10 server with highest population (Consoles only)\n⫸ Added popcounters. Do `-popcounter` to learn more\n⫸ Buttons! HLN-A Now uses buttons and selects. Please make sure to update your discord to latest so you can use the new features.\n⫸ You can now provide `all` value to delete commands to delete everything\n⫸ New command to change multipliers discord server wide\n⫸ Removed the annoying `Command not Found`. Not sure why we had it in the first place ¯\\_(ツ)_/¯\n⫸ Item limits raised to 100k (If need more, contact @chiggy#6420)\n⫸ Due to migrating VPS, notis and reminders MAY be lost. Sorry for the inconvenience caused.",
+                "upcoming": "⫸ Nothing much as of right now",
+                "version": "4.0.0",
+                "date": "28/09/2020",
+                "free_prem_bool": false,
+                "freeprem": "04/20/69",
+            }
